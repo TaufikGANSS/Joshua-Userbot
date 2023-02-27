@@ -9,10 +9,10 @@
 
 
 <p align="center">
-  <img src="https://telegra.ph/file/cbe826936d4de9ec1838a.jpg">
+  <img src="https://telegra.ph/file/7aa53b565fb3bac4bf9e8.jpg">
 </p>
 
-👩‍💻 ALBY-Userbot adalah userbot Telegram modular yang berjalan di Python3 dengan database sqlalchemy.
+👩‍💻 JOSHUA-Userbot adalah userbot Telegram modular yang berjalan di Python3 dengan database sqlalchemy.
 
 Berbasis [Paperplane](https://github.com/RaphielGang/Telegram-UserBot) dan [ProjectBish](https://github.com/adekmaulana/ProjectBish) userbot.
 Saya membuat repository ini untuk memilih dan menambahkan beberapa modul yang saya butuhkan dengan banyak perubahan, fitur dan modul.
